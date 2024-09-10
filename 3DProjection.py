@@ -1,5 +1,4 @@
 # Robert Fernald
-# CSCI 3800 Lab 3
 # Import a library of functions called 'pygame'
 import pygame
 import numpy as np
